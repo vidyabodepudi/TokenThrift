@@ -95,4 +95,4 @@ python scripts/estimate_tokens.py --interactive
 
 ## License
 
-MIT — use freely, compress freely.
+Apache 2.0 — Do things, compress freely.

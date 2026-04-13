@@ -15,9 +15,9 @@ Token Thrift provides battle-tested system prompts that cut the fluff while
 preserving technical accuracy — with adaptive intelligence that knows *when*
 to compress and when to let the model think freely.
 
-### NOTE
+### _NOTE_
 
-TokenThrift will NOT reduce your usage against a quota or billing. It just cuts the noise on output so you can se the reasoning clearly. This was just a fun project to see if it was useful or not. TLDR: Its useful to some people. 
+_TokenThrift will NOT reduce your usage against a quota or billing. It just cuts the noise on output so you can se the reasoning clearly. This was just a fun project to see if it was useful or not. TLDR: Its useful to some people._
 
 ## Quick Start
 
